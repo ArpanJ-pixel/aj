@@ -1,4 +1,4 @@
 # aj
 my first repository
 <br>
-Author- Arpan Jain
+Author- Arpan (Jain)
